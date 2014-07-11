@@ -1,7 +1,7 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: True bocal FAQ
+email: nekresh@gmail.com
+description: "Regrouper a un seul endroit les problemes ainsi que les resolutions du dump Bocal"
 baseurl: ""
 url: "http://yourdomain.com"
 
