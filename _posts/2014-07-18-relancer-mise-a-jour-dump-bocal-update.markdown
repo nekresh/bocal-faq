@@ -4,6 +4,7 @@ title:  "Relancer les mises à jour sur le dump (bocal-update)"
 date:   2014-07-18 14:00:00
 categories: update
 author: nekresh
+root:   true
 ---
 
 Juste après un redump, celui-ci doit se mettre à jour en utilisant la commande `bocal-update`.
