@@ -3,6 +3,7 @@ layout: post
 title:  "Probleme de redump avec un 840g"
 date:   2014-07-11 14:14:00
 categories: redump 840g
+author: nekresh
 ---
 
 Lors du redump d'un ordinateur HP 840g, il se peut que l'ecran de boot se bloque avec pour message :
