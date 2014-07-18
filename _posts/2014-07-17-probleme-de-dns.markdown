@@ -4,6 +4,7 @@ title:  "Problème de DNS"
 date:   2014-07-11 14:14:00
 categories: dns
 root:   true
+author: nekresh
 ---
 
 Lors de problème réseau ou de connexion à un autre réseau wifi, il se peut que la configuration DNS soit écrasée.
