@@ -31,6 +31,6 @@ Cette vérification ainsi que la mise à jour se base sur le site [http://pkg.bo
 L'arborescence est assez simple:
 
 * [http://pkg.bocal.org/blinux/$RELEASE](http://pkg.bocal.org/blinux/$RELEASE) contient les informations pour une release donnée
-* [http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE](http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE) contient la dernière version pour le mode d'un release donnée
+* [http://pkg.bocal.org/blinux/$RELEASE/current_version__$MODE](http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE) contient la dernière version pour le mode d'un release donnée
 * [http://pkg.bocal.org/blinux/$RELEASE/repo_add_$MODE_$VERSION](http://pkg.bocal.org/blinux/$RELEASE/repo_add_$MODE_$VERSION) ainsi que [http://pkg.bocal.org/blinux/$RELEASE/repo_del_$MODE_$VERSION](http://pkg.bocal.org/blinux/$RELEASE/repo_del_$MODE_$VERSION) contiennent la liste des dépots OpenSuSe à ajouter/supprimer sur le dump
 * [http://pkg.bocal.org/blinux/$RELEASE/pkg_add_$MODE_$VERSION](http://pkg.bocal.org/blinux/$RELEASE/pkg_add_$MODE_$VERSION) ainsi que [http://pkg.bocal.org/blinux/$RELEASE/pkg_del_$MODE_$VERSION](http://pkg.bocal.org/blinux/$RELEASE/pkg_del_$MODE_$VERSION) contiennent la liste des paquets RPM à installer/supprimer du dump
