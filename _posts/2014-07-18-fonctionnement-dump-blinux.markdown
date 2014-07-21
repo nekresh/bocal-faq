@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fonctionnement du dump blinux"
+title:  "Fonctionnement du dump (blinux)"
 date:   2014-07-18 18:00:00
 categories: update
 author: nekresh
