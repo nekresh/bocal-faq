@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Probleme de redump avec un 840g"
-date:   2014-07-11 14:14:00
 categories: redump 840g
 author: nekresh
 ---
