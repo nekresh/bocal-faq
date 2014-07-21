@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Problème de DNS"
-date:   2014-07-11 14:14:00
 categories: dns
 root:   true
 author: nekresh
