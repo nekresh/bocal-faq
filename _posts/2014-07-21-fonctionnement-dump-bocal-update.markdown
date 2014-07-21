@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fonctionnement du dump bocal-update"
+title:  "Fonctionnement du dump (bocal-update)"
 date:   2014-07-21 10:20:00
 categories: update
 author: nekresh
