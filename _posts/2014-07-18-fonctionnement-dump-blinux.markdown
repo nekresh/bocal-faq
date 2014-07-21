@@ -29,6 +29,7 @@ Le service `blinux-update` se charge de vérifier régulièrement la présence d
 Cette vérification ainsi que la mise à jour se base sur le site [http://pkg.bocal.org/blinux](http://pkg.bocal.org/blinux).
 
 L'arborescence est assez simple:
+
 * [http://pkg.bocal.org/blinux/$RELEASE](http://pkg.bocal.org/blinux/$RELEASE) contient les informations pour une release donnée
 * [http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE](http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE) contient la dernière version pour le mode d'un release donnée
 * [http://pkg.bocal.org/blinux/$RELEASE/repo_add_$MODE_$VERSION](http://pkg.bocal.org/blinux/$RELEASE/repo_add_$MODE_$VERSION) ainsi que [http://pkg.bocal.org/blinux/$RELEASE/repo_del_$MODE_$VERSION](http://pkg.bocal.org/blinux/$RELEASE/repo_del_$MODE_$VERSION) contiennent la liste des dépots OpenSuSe à ajouter/supprimer sur le dump
