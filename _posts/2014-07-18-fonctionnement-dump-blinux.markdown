@@ -26,11 +26,11 @@ N'ayant pas testé de modifier la release ou le mode d'un dump, effectuez ces mo
 ## blinux-update
 
 Le service `blinux-update` se charge de vérifier régulièrement la présence de nouvelle version pour le dump ainsi que le maintenir à jour.
-Cette vérification ainsi que la mise à jour se base sur le site [http://pkg.bocal.org/blinux](http://pkg.bocal.org/blinux).
+Cette vérification ainsi que la mise à jour se base sur le site `http://pkg.bocal.org/blinux`.
 
 L'arborescence est assez simple:
 
-* [http://pkg.bocal.org/blinux/$RELEASE](http://pkg.bocal.org/blinux/$RELEASE) contient les informations pour une release donnée
-* [http://pkg.bocal.org/blinux/$RELEASE/current_version__$MODE](http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE) contient la dernière version pour le mode d'un release donnée
-* [http://pkg.bocal.org/blinux/$RELEASE/repo_add__$MODE__$VERSION](http://pkg.bocal.org/blinux/$RELEASE/repo_add_$MODE_$VERSION) ainsi que [http://pkg.bocal.org/blinux/$RELEASE/repo_del__$MODE__$VERSION](http://pkg.bocal.org/blinux/$RELEASE/repo_del_$MODE_$VERSION) contiennent la liste des dépots OpenSuSe à ajouter/supprimer sur le dump
-* [http://pkg.bocal.org/blinux/$RELEASE/pkg_add__$MODE__$VERSION](http://pkg.bocal.org/blinux/$RELEASE/pkg_add_$MODE_$VERSION) ainsi que [http://pkg.bocal.org/blinux/$RELEASE/pkg_del__$MODE__$VERSION](http://pkg.bocal.org/blinux/$RELEASE/pkg_del_$MODE_$VERSION) contiennent la liste des paquets RPM à installer/supprimer du dump
+* `http://pkg.bocal.org/blinux/$RELEASE` contient les informations pour une release donnée
+* `http://pkg.bocal.org/blinux/$RELEASE/current_version_$MODE` contient la dernière version pour le mode d'un release donnée
+* `http://pkg.bocal.org/blinux/$RELEASE/repo_add_$MODE_$VERSION` ainsi que `http://pkg.bocal.org/blinux/$RELEASE/repo_del_$MODE_$VERSION` contiennent la liste des dépots OpenSuSe à ajouter/supprimer sur le dump
+* `http://pkg.bocal.org/blinux/$RELEASE/pkg_add_$MODE_$VERSION` ainsi que `http://pkg.bocal.org/blinux/$RELEASE/pkg_del_$MODE_$VERSION` contiennent la liste des paquets RPM à installer/supprimer du dump
