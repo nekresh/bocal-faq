@@ -7,8 +7,9 @@ author: nekresh
 
 La configuration du réseau wifi pour Epitech est la suivante (wpa_gui) :
 
-| SSID | iit-wifi |
+| Champ | Valeur |
 | --- | --- |
+| SSID | iit-wifi |
 | Authentication | WPA2-Enterprise |
 | Encryption | CCMP |
 | EAP Method | PEAP |
