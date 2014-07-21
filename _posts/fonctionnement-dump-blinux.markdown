@@ -6,7 +6,7 @@ categories: update
 author: nekresh
 ---
 
-Le nouveau dump, à ce jour, utilise un ensemble d'outils nommés `blinux-*` pour maintenir ce dernier à jour.
+Le dump de Février 2014 utilise un ensemble d'outils nommés `blinux-*` pour se maintenir à jour.
 
 ## blinux-release
 
