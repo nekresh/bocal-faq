@@ -1,7 +1,7 @@
 ---
-layout: "post"
+layout: post
 title: "Réparation du système de paquet lorsqu'il est cassé"
-author: "nekresh"
+author: nekresh
 root: true
 ---
 
