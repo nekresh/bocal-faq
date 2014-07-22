@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Réparation du système de paquet lorsqu'il est cassé"
+title: "Reparation du systeme de paquet lorsqu'il est casse"
 author: nekresh
 root: true
 ---
