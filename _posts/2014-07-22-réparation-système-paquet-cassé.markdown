@@ -20,5 +20,5 @@ Heureusement, le programme `zypper` n'est pas le gestionnaire de paquet principa
 Il vous sera possible d'utiliser `yast2` afin de réinstaller le paquet `zypper`.
 Une fois le paquet `zypper` réinstallé avec `yast2`, celui-ci devrait être fonctionnel.
 Il ne vous reste plus qu'à forcer la mise à jour du dump, afin de vous assurer que ce problème ne surviendra plus.
-La documentation pour [bocal-update]({% post_url 2014-07-21-relancer-mise-a-jour-dump-bocal-update %}) ainsi que [blinux-update]({% post_url 2014-07-22-relancer-mise-a-jour-dump-blinux-update %}) est disponible.
+La documentation pour [bocal-update]({% post_url 2014-07-18-relancer-mise-a-jour-dump-bocal-update %}) ainsi que [blinux-update]({% post_url 2014-07-22-relancer-mise-a-jour-dump-blinux-update %}) est disponible.
     
