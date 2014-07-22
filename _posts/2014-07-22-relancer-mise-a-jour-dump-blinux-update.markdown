@@ -15,7 +15,7 @@ Ainsi, pour la release `amaretto_apericube`, il suffit de forcer une ancienne ve
 
     blinux-release -sv 0.7
 
-En utilisant le fonctionnement simple du dump [blinux]({% post_url "fonctionnement-dump-blinux" %}), le script suivant, exécuté en root, permet de forcer l'installation/désinstallation pour la release en cours :
+En utilisant le fonctionnement simple du dump [blinux]({% post_url 2014-07-18-fonctionnement-dump-blinux %}), le script suivant, exécuté en root, permet de forcer l'installation/désinstallation pour la release en cours :
 
     # couper le service blinux-update durant notre manipulation
     service blinux-update stop
