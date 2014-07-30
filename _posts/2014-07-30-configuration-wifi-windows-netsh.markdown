@@ -10,7 +10,7 @@ Il se peut que l'interface graphique de configuration du wifi sous Windows ne fo
 Il est cependant possible d'utiliser le binaire `netsh` pour manipuler la configuration de la couche wifi sans avoir besoin de l'interface graphique.
 `netsh` permet de configurer la couche wifi gràce à sa section `wlan`.
 
-Pour configurer la connexion pour `iit-wifi`, il suffira d'incorporer le fichier [Wi-Fi-iit-wifi.xml]({{ "/assets/Wi-Fi-iit-wifi.xml" | preprend: site.baseurl }}) dans le système avec la commande :
+Pour configurer la connexion pour `iit-wifi`, il suffira d'incorporer le fichier [Wi-Fi-iit-wifi.xml]({{ "/assets/Wi-Fi-iit-wifi.xml" | preprend: site.baseurl | prepend: site.url }}) dans le système avec la commande :
 
     netsh wlan add profile filename="Wi-Fi-iit-wifi.xml" user=current
     
